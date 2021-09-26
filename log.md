@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 4: Sep 26, Sunday
+
+**Today's Progress**: Completed chapter 6 Functions from Introducing
+Go programming
+
+
+### Day 3: Sep 25, Saturday
+
+**Today's Progress**: Worked on Descheduler issue on creating extra log messages for evcitor functionality
+in PodEvictor.
+
+**Thoughts**: This issue may involve a lot of code changes
+
 
 ### Day 2: Sep 22, Wednesday
 
